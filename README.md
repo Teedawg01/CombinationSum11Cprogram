@@ -1,5 +1,7 @@
 # CombinationSum11Cprogram
 
+**This a CProgram which write and run on Visual Studion using C/C++ Extension using WSL in Visual studio code compile with gcc -o combinationsum_1_1 combinationsum_1_1.c and run ./combinationsum_1_1**
+
 Given a collection of candidate numbers (candidates) and a target number (target), find all unique combinations in candidates where the candidate numbers sum to target.
 
 Each number in candidates may only be used once in the combination.
